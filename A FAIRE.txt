@@ -1,10 +1,20 @@
 J'ai créé une note pour écrire qui fait quoi, pcq j'oublie tout le temps 
 On peut aussi écrire la prise de note des réunions
 
-Clara : 
+Répartition des tâches 
+Clara : SVM 
 
-Amélie : 
+Amélie : Modèles linéaires
 
-Christelle :
+Christelle : Merge analyse descriptives + Réseaux de neuronnes 
 
-Anaïs :
+Anaïs : Arbres et Forêts 
+
+Attention Merge arrive : je vais merger ma partie stats descriptives ce WE. Quand vous avez fini votre partie annoncez sur le groupe whatsapp. On va essayer de merger au fur-à-mesure. Faites des branches pour chaques parties. 
+
+Programme : 
+Point : 01/05 :  Produire tous les graphes et finir les codes
+Entre 01/05 - 15/05 : Traduction en python, Rédaction du rapport au propre
+Slide : 15/05 - Finir de rédiger le rapport pour commencer à faire les slides 
+Deadline : Rapport + Slide 22/05 
+
